@@ -9,7 +9,7 @@
 | Intern | Samweli Jacobo Kinanda |
 | Program | Cybersecurity Internship |
 | Organization | Networkwalks IT Solutions & Training |
-| Batch | B082 |
+| Batch | B084 |
 | Reporting Date | 10 November 2026 |
 | Modules | W2-PM1 and W2-PM5 |
 | Tools | Kali Linux, WHOIS, WhatWeb, Nslookup, cURL, WAFW00F, DNSRecon, Nmap and Zenmap |
@@ -624,7 +624,7 @@ Any additional security testing must be conducted within a clearly defined scope
 
 Cybersecurity Intern  
 Networkwalks IT Solutions & Training  
-Batch B082
+Batch B084
 
 **Focus Areas:**
 - Website Footprinting
