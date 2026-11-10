@@ -635,5 +635,8 @@ Batch B084
 - Cybersecurity Fundamentals
 
 ---
+GitHub: https://github.com/samwelikinanda27-eng/NETWORKWALKS-SAMWELI-B084A-WK1-PM1-CYBERSECURITY-LAB-SETUP/edit/main/Week-02/README.md
+
+LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7525884870187986945/
 
 *End of Report.*
